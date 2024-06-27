@@ -19,5 +19,4 @@ To install SparseFactorBoost, clone the repository and install the required depe
 git clone https://github.com/kshithj1472/SparseFactorBoost.git
 
 ## Contact
-For any questions or suggestions, please open an issue or contact me at kshithijshetty1472@gmail.com.
-We hope you find SparseFactorBoost useful for your econometric modeling needs!
+For any questions or suggestions, please open an issue or contact me at kshithijshetty1472@gmail.com. I hope you find SparseFactorBoost useful for your econometric modeling needs!
